@@ -8,6 +8,7 @@ Visualizador de Árvore B em Python, para a disciplina **SCC0215 - Organização
 </p>
 
 > **Disciplina:** SCC0215 - Organização de Arquivos <br>
+> **Professor(a):** Cristina Dutra de Aguiar <br>
 > **Instituição:** ICMC-USP - Universidade de São Paulo
 
 <p align="center">
